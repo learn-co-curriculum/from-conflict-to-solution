@@ -16,3 +16,5 @@ Here’s an example of metaphors that were used when explaining methods to stude
 
 *Tip*: To show that moments of tension are happening in your lesson, use shorter words and sentences, especially as it rises to the climax where the solution(s) is/are presented. 
 
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/from-conflict-to-solution' title='Now that you've set the stage, presented the problem, shown the "Why" of your lesson, and got your students interested, you're ready to move on to presenting material that teaches to the learning objectives you laid out earlier in your Readme.'>Now that you've set the stage, presented the problem, shown the "Why" of your lesson, and got your students interested, you're ready to move on to presenting material that teaches to the learning objectives you laid out earlier in your Readme.</a> on Learn.co and start learning to code for free.</p>
